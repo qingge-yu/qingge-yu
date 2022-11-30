@@ -1,7 +1,3 @@
-<p><em>A passionate software engineer who's always thinking of my next project idea. 😊</br>
-</em></p>
-
-
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
