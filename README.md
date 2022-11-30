@@ -23,9 +23,10 @@ const aboutMe = {
 </br>
 <h2>💻 Some stats 💻</h2>
 
-![Maggie's github stats]
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qingge-yu&theme=buefy&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingge-yu&theme=buefy&layout=compact" />
+<a href="https://github.com/qingge-yu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qingge-yu&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingge-yu&theme=buefy&layout=compact" />
+</a>
 
 </br>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
