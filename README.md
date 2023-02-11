@@ -1,10 +1,10 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, HTML, CSS, Python],
+   code: ["Javascript", "HTML", "CSS", "Python"],
    technologies: {
       frontEnd: {
-         js: ["React"],
+         js: "React",
          css: ["Materialize", "Bootstrap"]
       },
       backEnd: {
@@ -12,8 +12,8 @@ const aboutMe = {
       },
       databases: ["MongoDB", "PostgreSQL"],
    },
-   currentOccupation: ["graduating student, open for job opportunities"],
-   hobby: "I'm getting into camping recently",
+   currentOccupation: "open for job opportunities",
+   hobby: ["cooking", "hiking", "mixology"],
 };
 ```
 <h2>💻 Some stats 💻</h2>
