@@ -14,6 +14,10 @@ const aboutMe = {
    },
    currentOccupation: "open for job opportunities",
    hobby: ["cooking", "hiking", "mixology"],
+   cats: {
+      Boo: 5,
+      XiaoHui: 2,
+    }
 };
 ```
 <h2>💻 Some stats 💻</h2>
